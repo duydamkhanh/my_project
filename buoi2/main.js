@@ -38,7 +38,7 @@
  * string | number | boolean | object | null | undefined
  */
 
-const myName = "Nguyễn Văn A"; // string
+const myName = "Nguyễn Văn A "; // string
 const myAge = 20; // number
 const isMarried = true; // boolean
 const hasChild = false;
@@ -50,6 +50,7 @@ const myInfo = {
     age: 20,
     isMarried: true,
     children: ["A", "B", "C"],
+
 };
 
 // Tên biến : camelCase, là 1 danh từ, có ý nghĩa
